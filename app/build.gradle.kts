@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.yifeplayte.watchfacechanger"
-        minSdk = 26
+        minSdk = 30
         targetSdk = 33
         versionCode = 1
         versionName = "1.0.0"
